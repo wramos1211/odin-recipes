@@ -1,8 +1,11 @@
 /* styles.css */
 
 div {
-    color: purple;
-    background-color: black;
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    align-self: center;
+    font-weight: bold;
 }
 
 p {
