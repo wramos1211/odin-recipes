@@ -10,7 +10,7 @@ div {
 }
 
 p {
-    color: red;
+    color: blue;
      background: orange;
      padding: 20px;
      padding: 10px;
@@ -22,7 +22,7 @@ p {
 }
 
 * {
-    border: 2px solid red;
+    border: 20px solid rgba(19, 81, 167, 0.583);
     padding: 10px;
     height: 100px;
     width: auto;
