@@ -5,6 +5,8 @@ div {
 
 p {
     color: red;
+     background: orange;
+     padding: 2px;
 }
 
 * {
