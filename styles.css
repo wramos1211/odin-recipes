@@ -1,14 +1,32 @@
 div {
     color: white;
     background-color: black;
+    padding: 10px;
+    height: 100px;
+    width: auto;
+    border: 20px solid #9b51e0;
+    margin: 100px;
+    box-sizing: border-box;
 }
 
 p {
     color: red;
      background: orange;
      padding: 20px;
+     padding: 10px;
+     height: 100px;
+     width: auto;
+     border: 20px solid #9b51e0;
+     margin: 100px;
+     box-sizing: border-box;
 }
 
 * {
     border: 2px solid red;
+    padding: 10px;
+    height: 100px;
+    width: auto;
+    border: 20px solid #9b51e0;
+    margin: 100px;
+    box-sizing: border-box;
 }
